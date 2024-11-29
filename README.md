@@ -1,5 +1,6 @@
 # ML-Projects
 
+### [ Scaler Clustering](https://github.com/vishvinpm/Scaler-clustering)
 ### [Loan Tap](https://github.com/vishvinpm/Loan_Tap)
 ### [OLA-Ensemble](https://github.com/vishvinpm/OLA-ensemble/tree/main)
 ### [Jamboree case study](https://github.com/vishvinpm/Jamboree-case-study)
