@@ -1,5 +1,6 @@
 # ML-Projects
 
+### [AdEase Time series](https://github.com/vishvinpm/AdEase/tree/main)
 ### [ Scaler Clustering](https://github.com/vishvinpm/Scaler-clustering)
 ### [Loan Tap](https://github.com/vishvinpm/Loan_Tap)
 ### [OLA-Ensemble](https://github.com/vishvinpm/OLA-ensemble/tree/main)
