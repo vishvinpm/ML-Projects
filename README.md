@@ -1,5 +1,6 @@
 # ML-Projects
 
+### [BMW Stock Market Price prediction](https://github.com/vishvinpm/BMW-stock-price-prediction)
 ### [AdEase Time series](https://github.com/vishvinpm/AdEase/tree/main)
 ### [ Scaler Clustering](https://github.com/vishvinpm/Scaler-clustering)
 ### [Loan Tap](https://github.com/vishvinpm/Loan_Tap)
