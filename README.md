@@ -1,5 +1,6 @@
 # ML-Projects
 
+### [FlipitNews -NLP](https://github.com/vishvinpm/FlipitNews-NLP)
 ### [Ninja Cart Classification -CNN](https://github.com/vishvinpm/Ninja-Cart-)
 ### [Porter Delivery Time Prediction- NN](https://github.com/vishvinpm/Porter-delivery-NN)
 ### [BMW Stock Market Price prediction](https://github.com/vishvinpm/BMW-stock-price-prediction)
