@@ -1,6 +1,6 @@
 # ML-Projects
 
-### [Twitter NER-NLP](https://github.com/vishvinpm/Twitter-NER--NLP/tree/main"
+### [Twitter NER-NLP](https://github.com/vishvinpm/Twitter-NER--NLP)
 ### [FlipitNews -NLP](https://github.com/vishvinpm/FlipitNews-NLP)
 ### [Ninja Cart Classification -CNN](https://github.com/vishvinpm/Ninja-Cart-)
 ### [Porter Delivery Time Prediction- NN](https://github.com/vishvinpm/Porter-delivery-NN)
